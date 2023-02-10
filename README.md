@@ -4,27 +4,27 @@ A dynamic weather forecasting website that provides real-time weather informatio
 
 
 ## Features
--Real-time weather information for any location in the world, powered by the OpenWeatherAPI
--User-friendly interface for easy navigation
--Display of current weather conditions such as temperature, humidity, and wind speed
--5-day weather forecast for the selected location
--Option to switch between Celsius and Fahrenheit temperature units
--Beautiful and responsive design optimized for both desktop and mobile devices
+- Real-time weather information for any location in the world, powered by the OpenWeatherAPI
+- User-friendly interface for easy navigation
+- Display of current weather conditions such as temperature, humidity, and wind speed
+- 5-day weather forecast for the selected location
+- Option to switch between Celsius and Fahrenheit temperature units
+- Beautiful and responsive design optimized for both desktop and mobile devices
 
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 ## Prerequisites
 Before you begin, make sure you have the following software installed on your computer:
--A modern web browser such as Google Chrome, Mozilla Firefox, or Microsoft Edge
--An active internet connection
--An API key from OpenWeatherAPI
+- A modern web browser such as Google Chrome, Mozilla Firefox, or Microsoft Edge
+- An active internet connection
+- An API key from OpenWeatherAPI
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 1. Clone the repository to your local machine:
 
-### git clone https://github.com/anniedavid13/WeatherForecasr.git
+### git clone https://github.com/anniedavid13/WeatherForecast.git
 
 
 2. Replace <your_api_key> with your OpenWeatherAPI key.
@@ -34,12 +34,12 @@ These instructions will get you a copy of the project up and running on your loc
 ## Deployment
 The project is already deployed on Netlify, but you can also deploy it yourself by following these steps:
 
--Sign up for a free account on Netlify.
--Connect your Github repository to Netlify.
--Select the repository and branch that you want to deploy.
--Set the build command to npm run build and the publish directory to build.
--Click the "Deploy" button and wait for the deployment to complete.
--Once the deployment is successful, you can access your weather forecasting website at the URL provided by Netlify.
+- Sign up for a free account on Netlify.
+- Connect your Github repository to Netlify.
+- Select the repository and branch that you want to deploy.
+- Set the build command to npm run build and the publish directory to build.
+- Click the "Deploy" button and wait for the deployment to complete.
+- Once the deployment is successful, you can access your weather forecasting website at the URL provided by Netlify.
 
 
 
